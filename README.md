@@ -1,5 +1,4 @@
 # Salut
-WildCodeSchool Project
 
 Bonjour à tous,
 
