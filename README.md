@@ -1,4 +1,4 @@
-# say-hello
+# Salut
 WildCodeSchool project
 ==================
 Bonjour à tous,
