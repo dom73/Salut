@@ -1,5 +1,5 @@
 # Salut
-WildCodeSchool project
+# WildCodeSchool project
 ==================
 Bonjour à tous,
 
